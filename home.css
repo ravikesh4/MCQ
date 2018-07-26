@@ -1,0 +1,20 @@
+.move {
+	margin-left: 25%;
+}
+
+body {
+  font-family: arial;
+}
+.hide {
+  display: none;
+}
+p {
+  font-weight: bold;
+}
+
+.icon{
+	display: inline-block;
+}
+.show{
+	display: block;
+}
